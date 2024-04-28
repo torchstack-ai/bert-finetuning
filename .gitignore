@@ -1,0 +1,4 @@
+.venv
+/notebooks/bert-yelp
+/notebooks/mlruns
+.env
