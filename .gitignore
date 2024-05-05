@@ -1,4 +1,4 @@
 .venv
-/notebooks/bert-twitter-reviews
-/notebooks/mlruns
+bert-twitter-reviews
+mlruns
 .env
